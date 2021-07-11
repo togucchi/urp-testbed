@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/IgnoreAssets/JP_School classroom_V2/Scenes/School_Classroom.unity
+    guid: b64e7bfed3af07540960a741f9195d89
+  m_configObjects: {}
